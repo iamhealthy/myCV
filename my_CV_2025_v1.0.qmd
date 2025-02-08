@@ -1,0 +1,112 @@
+<div style="text-align: center; font-size: 35px; font-weight: bold; color: darkblue;">
+  The CV of Kang Wu
+</div>
+
+# 1. 基本信息/background
+![](wukang.png){width=25% fig-align="center"}
+
+|信息列1|信息列2|
+|:---|:---|
+|**姓名**：吴康|**出生年月**：1983.11|
+|**最高学历**：博士|**户籍地**：上海市闵行区|
+|**民族**：汉|**电话**：15821314790|
+|**身高**：171 cm|**邮箱**：wu__kang@126.com|
+|**婚姻**：已婚|**ORCID**：0000-0002-9024-795X|
+|**个人网页**：https://iamhealthy.github.io/|
+
+# 2. 教育/education
+- (1) 2007/09 – 2012/07，上海交通大学，生物化学与分子生物学(博士)
+- (2) 2001/09 – 2007/07，西北农林科技大学，生物技术(本硕连读)
+
+# 3. 自评/self-evaluation
+- (1) 独立的、富有创造力和严谨精神的研究者，并能迅速适应变化。
+- (2) 能将自己独特的技术应用于各种生物和技术问题。
+- (3) 能与在不同领域具备卓越能力的研究者合作。
+- (4) 做实验出身；也做生信，有亲自操刀的3篇一作纯生信SCI研究文章(i.e. Front Med. 2020; Int J Genomics. 2017; Biomed Res Int. 2014)、1篇含有本人scRNA-seq分析结果的综述(Crit Care. 2022)、1篇放弃发表的纯生信SCI文章(drafted in 2014)。
+
+# 4. 工作/experience
+### 4.4 2022/07 - 至今，上海锐赛循益生物技术有限公司，科创中心(高级开发总监)
+- (1) 肿瘤分子诊断产品开发(相关专利申请号：202410274764.3、202410372505.4)。
+- (2) 基于NGS的诊断技术和产品开发(相关专利授权公告号：CN117343999B、CN117701691B)。
+- (3) DCs疫苗临床试验和应用支持、间充质干细胞外泌体临床试验和应用支持。
+- (4) 肿瘤panel NGS数据的生信分析，发现基因/蛋白突变以指导临床个体化用药。
+
+### 4.3 2021/08 – 2022/06，杭州杰毅生物技术有限公司，创新应用研究院(医学科学家)
+- (1) 基于公司的mNGS产品和临床医生/科室开展合作项目，参与并指导相关项目书撰写、项目推进、项目结题(比如数据整理、分析，SCI文章撰写)。
+
+### 4.2 2021/06 – 2021/08，上海派森诺生物科技有限公司，研发中心(研发项目经理)
+- (1) 负责在公司建立metagenomic next-generation sequencing (mNGS)诊断技术。短暂的3个月工作期间，带领3个人的团队建立了该技术的实验部分，及生信分析的框架。
+
+### 4.1 2012/07 – 2021/06，复旦大学附属上海市公共卫生临床中心，科学研究部(助理研究员)
+- (1) 宿主(志愿者外周血、吞噬细胞)对于结核分枝杆菌的(全基因组)转录应答和生信分析(相关专利授权公告号：CN104182654B)。
+- (2) 牛分枝杆菌卡介苗(结核疫苗)的基因重组改造，及在小鼠的免疫保护研究(相关专利授权公告号：CN111979162B、CN106148258B)。
+- (3) 白血病发病机理探索(分子和细胞层面)(相关专利授权公告号：CN103740760B)。
+
+# 5. 期刊论文/journal articles
+### 5.1 (并列)一作/(co-)1st author SCI (# co-first author，*corresponding author)
+- (12) Xu JC#, **Wu K**#, Ma RQ, Li JH, Tao J, Hu ZD, Fan XY*. Establishment of an in vitro model of monocyte-like THP-1 cells for trained immunity induced by bacillus Calmette-Guérin. _**BMC Microbiol**_. 2024;24:130. (IF: 4.0)
+- (11) Shi JC#, Wu WJ#, **Wu K**#, Ni CR, He GQ, Zheng SL, Cheng F, Yi YX, Ren RT\*, Jiang XG\*. The diagnosis of leptospirosis complicated by pulmonary tuberculosis complemented by metagenomic next-generation sequencing: a case report. _**Front Cell Infect Microbiol**_. 2022;12:922996. (Case report). (IF: 5.7)
+- (10) Liu C#, **Wu K**#, Sun TY, Chen B, Yi YX, Ren RT\*, Xie LX\*, Xiao K\*. Effect of invasive mechanical ventilation on the diversity of the pulmonary microbiota. _**Crit Care**_. 2022;26:252. (Review). (IF: 15.1)
+- (9) **Wu K**, Yan B, Douglas BL, Li T\*, Fan XY\*. Tailored co-localization analysis of intracellular microbes and punctum-distributed phagosome-lysosome pathway proteins using ImageJ plugin EzColocalization. _**Sci Rep**_. 2021;11:1096. (IF: 4.996)
+- (8) **Wu K**, Li M, Chen ZY, Douglas BL\*, Fan XY\*. Probe signal values in mRNA arrays imply an excessive involvement of neutrophil FCGR1 in tuberculosis. _**Front Med**_. 2020;7:19. (IF: 5.091)
+- (7) Pei ZL#, **Wu K**#, Li ZH#, Li CQ#, Zeng L, Li F, Pei N, Liu HM, Zhang SL, Song YZ, Zhang XY, Xu JQ, Fan XY\*, Wang J\*. Pharmacologic ascorbate as a pro-drug for hydrogen peroxide release to kill mycobacteria. _**Biomed Pharmacother**_. 2019;109:2119-2127. (IF: 4.545)
+- (6) **Wu K**#, Wong KW#, Deng WL, Zhang H, Li J, Lowrie DB\*, Fan XY\*. The numerical predominance and large transcriptome differences of neutrophils in peripheral blood together inevitably account for a reported pulmonary tuberculosis signature. _**Int J Genomics**_. 2017;2017:5830971. (IF: 1.904)
+- (5) **Wu K**#, Zhao XJ#, Wong KW, Fan XY*. Comparison of plasmid DNA versus PCR amplified gene of insert DNA for nucleofection in Kasumi-1 cells. _**Cytotechnology**_. 2015;67(2):275-283. (IF: 1.864)
+- (4) **Wu K**, Fang H, Lyu LD, Lowrie DB, Wong KW\*, Fan XY\*. A derived network-based interferon-related signature of human macrophages responding to Mycobacterium tuberculosis. _**Biomed Res Int**_. 2014;2014:713071. (IF: 1.579)
+- (3) Ma H#, **Wu K**#, Liu F Yang H, Kang H, Chen NN, Yuan Q, Zhou WJ, Fan XY*. Dose of incorporated immunodominant antigen in recombinant BCG impacts modestly on Th1 immune response and protective efficiency against Mycobacterium tuberculosis in mice. _**J Immunol Res**_. 2014;2014:196124. (IF: 2.934)
+- (2) Jin W#, **Wu K**#, Li YZ# Yang WT, Zou B, Zhang F, Zhang J\*, Wang KK\*. AML1-ETO targets and suppresses cathepsin G, a serine protease, which is able to degrade AML1-ETO in t(8;21) acute myeloid leukemia. _**Oncogene**_. 2013;32(15):1978-1987. (IF: 8.559)
+- (1) **Wu K**#, Dong DD#, Fang H#, Levillain F#, Jin W, Mei J, Gicquel B, Du Y, Wang K, Gao Q, Neyrolles O\*, Zhang J\*. An interferon-related signature in the transcriptional core response of human macrophages to Mycobacterium tuberculosis infection. _**PLoS One**_. 2012;7(6):e38367. (IF: 3.730)
+- (0) 亦可通过My Bibliography (NCBI)查看如上列表：https://www.ncbi.nlm.nih.gov/myncbi/1xKGynflhNK5t/bibliography/public/
+
+### 5.2 (并列)一作中文/(co-)1st author Chinese (# co-first author，*corresponding author)
+- (1) **吴康**#、屈蓉#、王刚、薛清华、吕建新、Douglas B. Lowrie、范小勇*。基于常规引物靶向结核分枝杆菌II型分枝杆菌散在重复单位的恒温扩增。_**复旦学报(医学版)**_。2020;47:799-808。
+
+### 5.3 一个有意思的文稿/one interesting draft
+- (1) **吴康**。《红楼梦》中的疑似活动性结核病患者。_**知乎**_ (https://zhuanlan.zhihu.com/p/148348007)。2020。
+
+### 5.4 非(并列)一作文章/non-(co-)1st articles (# co-first author，*corresponding author)
+- (12) Huang Z#, Huang H#, Hu J, Xia L, Liu XH, Qu R, Huang XL, Yang Y, **Wu K**, Ma RQ, Xu JC, Chen ZY, Wu YH, Yang J, Fang Y, Zeng JF, Lai WH, Sui GD, Sha W, Xiong YH, Lu SH\*, Fan XY\*. A novel quantitative urine LAM strip for point-of-care tuberculosis diagnosis in non-HIV adults. _**J Infect**_. 2023;S0163-4453(23)00586-8. (Letter).
+- (11) Huang H#, Qu R#, **Wu K**, Xu JC, Li JH, Lu SH, Sui GD, Fan XY*. Proteinase K-pretreated ConA-based ELISA assay: a novel urine LAM detection strategy for TB diagnosis. _**Front Microbiol**_. 2023;14:1236599.
+- (10) 屈蓉、**吴康**、吴娟、范小勇、吕建新*。结核分枝杆菌早期分泌蛋白MPT64的原核表达及其在结核病血清学诊断上的初步应用。_**中国生物制品学杂志**_。2021:34(05):566-570。
+- (9) Zhao HM#, Du R#, Li CL, Ji P, Li HC, **Wu K**, Hu ZD, Lu SH, Douglas BL, Fan XY*. Differential T cell responses against DosR-associated antigen Rv2028c in BCG-vaccinated populations with tuberculosis infection. _**J Infect**_. 2019;78(4):275-280.
+- (8) Hu ZD#, Wong KW#, Zhao HM, Wen HL, Ji P, Ma H, **Wu K**, Lu SH, Li F, Li ZM, Shu T, Xu JQ, Douglas BL, Fan XY*. Sendai virus mucosal vaccination establishes lung-resident memory CD8 T cell immunity and boosts BCG-primed protection against TB in mice. _**Mol Ther**_. 2017;25(5):1222-1233.
+- (7) Wen HL, Li CL, Li G, Lu YH, Li HC, Li T, Zhao HM, **Wu K**, Douglas BL, Lv JX, Lu SH\*, Fan XY\*. Involvement of methylated HBHA expressed from Mycobacterium smegmatis in an IFN-γ release assay to aid discrimination between latent infection and active tuberculosis in BCG-vaccinated populations. _**Eur J Clin Microbiol Infect Dis**_. 2017;36(8):1415-1423.
+- (6) Li G#, Li F#, Zhao HM, Wen HL, Li HC, Li CL, Ji P, Xu P, **Wu K**, Hu ZD, Lu SH, Douglas BL, Lv JX\*, Fan XY\*. Evaluation of a new IFN-γ release assay for rapid diagnosis of active tuberculosis in a high-incidence setting. _**Front Cell Infect Microbiol**_. 2017;7:117.
+- (5) 李春玲、**吴康**、范小勇*。氧化应激与结核病。_**生命科学**_。2017;29(11):1108-1112。(综述)。
+- (4) 问寒利、李海聪、李根、赵慧敏、施理敏、韩伟靖、**吴康**、范小勇*。结核分枝杆菌肝素结合血凝黏附素的原核表达及其在结核病血清学诊断中的应用。_**中国生物制品学杂志**_。2016;29(05):497-502。
+- (3) Chen L, Guo S, Wu LX, Fan XY, Ma H, **Wu K**, Wu J, Zhang JH*. IL-17A Autoantibody Induced by Recombinant Mycobacterium smegmatis Expressing Ag85A-IL-17A Fusion Protein. _**Appl Biochem Biotechnol**_. 2015; 176(7):2018-2026.
+- (2) 吉萍、范小勇*、**吴康**、卢水华。结核分枝杆菌潜伏性感染相关抗原的研究进展。_**中华微生物学和免疫学杂志**_。2015;35(1):59-64。(综述)。
+- (1) Kang H, Yuan Q, Ma H, Hu ZD, Han DP, **Wu K**, Douglas BL, Fan XY*. Enhanced protective efficacy against Mycobacterium tuberculosis afforded by BCG prime-DNA boost regimen in an early challenge mouse model is associated with increased splenic interleukin-2-producing CD4 T-cell frequency post-vaccination. _**Immunology**_. 2014;143(4):661-669.
+
+### 5.5 放弃发表的一作文章/1st author articles abandoned for publication (# co-first author，*corresponding author)
+- (2) **Wu K**, Douglas BL\*, Fan XY\*. Fever of unknown origin and incipient tuberculosis. _**Un-published**_. Drafted in 2020. (Letter).
+- (1) **Wu K**, Douglas BL, Wong KW\*, Fan XY\*. Re-analysis of the transcriptome data of host Macrophages in response to Mycobacterium tuberculosis infection by weighted gene co-expression network analysis. _**Un-published**_. Drafted in 2014.
+- (0) 若感兴趣，可分享。
+
+### 5.6 被致谢的文章/acknowledged articles(# co-first author，*corresponding author)
+- (1) Cheng XB#, Chai RR#, Zhang T#, Chen YJ, Fan FQ, Ye YF, Jin GQ, Li TT, Wang H, Ding JW, Zheng M, Han YH, Tang QZ, Song ZQ, Ji YQ, Song WW, Luo WF\*, Kang Y\*. A novel methylation-detection panel for HPV associated high-grade squamous intraepithelial lesion and cervical cancer screening. _**Sci Rep**_. 2024;14(1):25556. “_In particular, we acknowledge Dr. **Wu Kang** for giving professional advice on this article._”
+
+# 6. 专利/patents
+- (9) 张腾、**吴康**、纪逸群、东亚娟、钟军、罗卫峰、范小勇、赵建华。一种改变不同核酸靶标相对PCR扩增速度的方法。发明专利。申请号：202410372505.4。申请日期：2024.03.29。_该专利在2024.06.18被驳回。本人自认为该专利有有趣的发现，即通过具体实验证实了带有通用引物序列的靶标特异引物对的qPCR扩增性能更好（扩增体系亦包括通用引物对。相比于未带通用引物序列的靶标特异引物对的qPCR），进而能够较好实现改变不同核酸靶标的相对PCR扩增速度的目的。_
+- (8) **吴康**、张腾、纪逸群、钟军、罗卫峰、范小勇、赵建华。一种通过预先PCR改变不同核酸靶标相对扩增速度的方法。发明专利。申请号：202410274764.3。申请日期：2024.03.11。
+- (7) **吴康**、赵建华、张腾、范小勇、罗卫峰、东亚娟、纪逸群。基于人基因组扩增子的 illumina 测序文库构建的引物组合。发明专利。授权公告号：CN117701691B。申请日期：2024.02.01。
+- (6) **吴康**、东亚娟、张腾、范小勇、罗卫峰、赵建华、纪逸群。基于左侧探针退火和右侧探针退火延伸的核酸扩增方法。发明专利。授权公告号：CN117343999B。申请日期：2023.12.05。
+- (5) 范小勇、**吴康**、罗道良。基于常规引物的针对串联重复序列的恒温扩增体系、扩增方法及常规引物对。发明专利。授权公告号：CN111269969B；申请日期：2020.03.06。
+- (4) 范小勇、**吴康**、罗道良。重组卡介苗菌株、其制备方法和用途。发明专利。授权公告号：CN111979162B；申请日期：2019.05.22。
+- (3) 范小勇、吕亮东、赵国屏、马辉、**吴康**。mazG基因缺失的抗结核重组卡介苗。发明专利。授权公告号：CN106148258B；申请日期：2015.04.20。
+- (2) **吴康**、黄家颖、范小勇。基于蛋白-蛋白相互作用网络的基因集鉴定方法。发明专利。授权公告号：CN104182654B；申请日期：2014.07.30。
+- (1) **吴康**、范小勇、黄家颖、赵旭杰。PCR扩增基因核转悬浮动物细胞的方法。发明专利。授权公告号：CN103740760B；申请日期：2014.01.09。专利权终止日期：2024.01.09。
+
+# 7. 科研项目/scientific projects
+|序号|项目类型|项目名称|项目号|负责人|期限|经费额(万)|
+|:---|:---|:---|:---|:---|:---|:---|
+|5|舟山市普陀区一般科技计划项目|基于靶向高通量测序的膀胱癌和泌尿感染集成诊断的技术和产品研发|2023YB003|**吴康**|2023/01-2025/06|20|
+|4|上海市科委医学引导|结核分枝杆菌DosR抗原在结核病免疫鉴别诊断及临床预后中的应用研究|18411970700|**吴康**|2018/09-2021/09|20|
+|3|国家重点研发计划|种畜场牛结核和布鲁氏菌病综合防控与净化技术集成与示范-->课题2：牛结核诊断技术集成与净化示范-->子课题3：基于微流控芯片的牛结核抗原快速检测产品的研发|2018YFD0500900|**吴康**(子课题3)|2018/06-2021/09|47<span style="color: gray;">/1263</span>|
+|2|国自然青年|结核分枝杆菌胞内表达上调分泌性基因集的T细胞抗原筛选及其免疫保护功能鉴定|81301407|**吴康**|2014/01-2016/12|23|
+|1|上海市科委青年|ActA促进分枝杆菌自噬逃逸并提高卡介苗MHC I类抗原呈递的研究|12ZR1448200|**吴康**|2012/10-2015/09|10|
+
+# 8. 人才项目/talent projects
+|序号|项目名称|项目号|负责人|期限|经费额(万)|
+|:---|:---|:---|:---|:---|:---|
+|1|舟山市“舟创未来”海纳计划创新长期人才 II 类|【2023】第 1 批-08|**吴康**|2024/04-2029/04|30|
