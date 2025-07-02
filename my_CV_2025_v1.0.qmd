@@ -45,7 +45,7 @@
 
 # 5. 期刊论文/journal articles
 ### 5.1 (并列)一作/(co-)1st author SCI (# co-first author，*corresponding author)
-- (12) Xu JC#, **Wu K**#, Ma RQ, Li JH, Tao J, Hu ZD, Fan XY*. Establishment of an in vitro model of monocyte-like THP-1 cells for trained immunity induced by bacillus Calmette-Guérin. _**BMC Microbiol**_. 2024;24:130. (IF: 4.0)
+- (12) Xu JC#, **Wu K**#, Ma RQ, Li JH, Tao J, Hu ZD, Fan XY*. Establishment of an in vitro model of monocyte-like THP-1 cells for trained immunity induced by bacillus Calmette-Guérin. _**BMC Microbiol**_. 2024;24:130. (IF: 4.2)
 - (11) Shi JC#, Wu WJ#, **Wu K**#, Ni CR, He GQ, Zheng SL, Cheng F, Yi YX, Ren RT\*, Jiang XG\*. The diagnosis of leptospirosis complicated by pulmonary tuberculosis complemented by metagenomic next-generation sequencing: a case report. _**Front Cell Infect Microbiol**_. 2022;12:922996. (Case report). (IF: 5.7)
 - (10) Liu C#, **Wu K**#, Sun TY, Chen B, Yi YX, Ren RT\*, Xie LX\*, Xiao K\*. Effect of invasive mechanical ventilation on the diversity of the pulmonary microbiota. _**Crit Care**_. 2022;26:252. (Review). (IF: 15.1)
 - (9) **Wu K**, Yan B, Douglas BL, Li T\*, Fan XY\*. Tailored co-localization analysis of intracellular microbes and punctum-distributed phagosome-lysosome pathway proteins using ImageJ plugin EzColocalization. _**Sci Rep**_. 2021;11:1096. (IF: 4.996)
